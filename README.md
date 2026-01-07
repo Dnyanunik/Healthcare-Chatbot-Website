@@ -101,7 +101,7 @@ database/chatbot.sql
 
 5. Open browser and run:
 
-http://localhost/healthcare-chatbot
+https://dnyaneshwar-chatbot.rf.gd/
 
 
 
